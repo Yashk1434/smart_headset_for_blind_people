@@ -5,7 +5,7 @@ A compact, wearable assistive device enhancing mobility, safety, and independenc
 ---
 
 ## 📸 Project Showcase  
-<img src="https://github.com/user-attachments/assets/deae8dd7-1cb7-469d-bc03-cc02b504c5d8" width="500"/>
+<img src="https://github.com/user-attachments/assets/deae8dd7-1cb7-469d-bc03-cc02b504c5d8" width="450"/>
 <img src="https://github.com/user-attachments/assets/32535b62-00e2-461c-b19c-78398e7f8d19" width="500"/>
 
 
