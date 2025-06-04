@@ -105,7 +105,7 @@ The **Smart Headset for the Visually Impaired** is a low-cost, Arduino Mega-base
 
 ## 📚 Report & Documentation  
 
-You can find the full technical documentation in the `Smart Headset for Blind.docx` file included in this repository.
+You can find the full technical documentation in the `Smart Headset for Blind People.pdf` file included in this repository.
 
 ---
 
@@ -122,11 +122,3 @@ You can find the full technical documentation in the `Smart Headset for Blind.do
 - **Amrita Bera**  
 - **Snehal Borse**  
 
----
-
-## 📬 Contact  
-
-For queries or collaborations:  
-📧 ykadu1434@gmail.com
-
----
