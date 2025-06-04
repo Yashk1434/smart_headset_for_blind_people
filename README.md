@@ -1,13 +1,133 @@
-The Smart Headset for the Visually Impaired - "The Third Eye," is a compact, Arduino Mega-based wearable assistive device aimed at enhancing mobility, safety, and independence for blind individuals. It integrates three ultrasonic sensors to detect obstacles in real time and provides directional auditory feedback using buzzers placed near the ears. Depending on the proximity and position of detected obstacles, the buzzers vary in frequency and intensity, alerting the user to navigate safely.
-![image](https://github.com/user-attachments/assets/7a45f2ed-4cdb-40a2-8e6f-e6e09a198017)
+# 🎧 Smart Headset for the Visually Impaired - *The Third Eye*
 
-There are various zones in the Projects for which the parameters/variables can be changed according to needs.
-![image](https://github.com/user-attachments/assets/950b1b53-1256-4daa-b72c-b01aa5e3f2ee)
+A compact, wearable assistive device enhancing mobility, safety, and independence for visually impaired individuals using real-time obstacle detection, auditory feedback, emergency SOS, and remote wireless control.
 
-Actual Implementation of the project
-![image](https://github.com/user-attachments/assets/1b7cae4d-6b93-47f8-8230-7dbfa167f495)
-![image](https://github.com/user-attachments/assets/b67c22a5-8029-498b-9314-4d2db0c07c31)
+---
 
-Android App to control the Headset
-![image](https://github.com/user-attachments/assets/668b48ad-793a-49c7-9dd6-03b0825b42c5)
-![image](https://github.com/user-attachments/assets/24148b44-a7e9-4c52-94a9-acba5c7af88f)
+## 📸 Project Showcase  
+![image](https://github.com/user-attachments/assets/deae8dd7-1cb7-469d-bc03-cc02b504c5d8)
+
+
+---
+
+## 📖 Overview
+
+The **Smart Headset for the Visually Impaired** is a low-cost, Arduino Mega-based device that detects obstacles in real time and alerts the user through directional buzzers. It integrates:
+
+- **3 ultrasonic sensors** for obstacle detection
+- **Directional buzzers** for sound feedback
+- **Touch sensor** for easy control & SOS triggering
+- **Bluetooth control** via Android app
+- **GPS & GSM modules** for emergency SMS alerts with live location
+
+---
+
+## 🛠️ Features
+
+- 📏 **Multi-Directional Obstacle Detection**
+- 🎵 **Directional Audio Feedback**
+- 🖐️ **Single-tap Control & SOS Activation**
+- 📱 **Bluetooth-based Wireless Control**
+- 📍 **Live Location SOS via SMS**
+- 🔒 **Secret Keyword-Based Location Requests**
+- 🎛️ **Indoor & Outdoor Mode Switching**
+- 🔊 **Volume Adjustment via App**
+- 📡 **Find My Device Feature**
+
+---
+
+## 🧭 System Architecture  
+![image](https://github.com/user-attachments/assets/05f31248-e680-4f62-ba62-b6f283cb24e9)
+![image](https://github.com/user-attachments/assets/570c2a0e-c8ec-4f77-a157-36fb71289a3f)
+
+
+---
+
+## 🔧 Hardware Components
+
+| Component              | Description                                            |
+|:----------------------|:------------------------------------------------------|
+| Arduino ATmega2560      | Central controller for all connected modules          |
+| 3x Ultrasonic Sensors   | Detect obstacles at Left, Right & Front directions     |
+| 2x Buzzers              | Provide directional audio alerts                      |
+| Touch Sensor (TTP223)   | Toggle detection / Trigger SOS function               |
+| NEO-6M GPS Module       | Fetches live GPS location                              |
+| SIM800L GSM Module      | Sends location via SMS                                 |
+| HC-05 Bluetooth Module  | Enables mobile app communication                       |
+| Li-ion Battery (3.7V)   | Powers the device                                       |
+
+---
+
+## 💻 Software Components
+
+- Arduino IDE (Embedded C/C++)
+- TinyGPS++ & SoftwareSerial libraries
+- Android App (Bluetooth communication & controls)
+
+---
+
+## 📲 Mobile App Features  
+
+- Start/Stop **Find My Device**
+- Toggle between **Indoor/Outdoor Mode**
+- Adjust **Volume (Low / Medium / High)**
+- SOS activation & Bluetooth-based commands
+
+---
+
+## 📈 Working Flow  
+
+**Single Press** → Obstacle Detection Toggle  
+**5-Second Hold** → Activate SOS (Send location via SMS)  
+**Bluetooth Commands** → Mode switching, volume control, buzzer find function
+
+---
+
+## 📊 Results  
+
+- ✅ Reliable, real-time obstacle detection in 3 directions  
+- ✅ Accurate GPS location retrieval and SMS dispatch  
+- ✅ Responsive Bluetooth control via Android application  
+- ✅ Successfully tested in real-world indoor and outdoor conditions  
+
+---
+
+## 📌 Future Scope
+
+- 🔊 Voice-based guidance feedback  
+- 📷 Camera module for object recognition  
+- ☁️ Cloud-based location logging & caregiver alerts  
+- 🔋 Enhanced battery management system  
+- 📱 Dedicated Android/iOS app for expanded controls  
+
+---
+
+## 📚 Report & Documentation  
+
+You can find the full technical documentation in the `Smart Headset for BlindS.docx` file included in this repository.
+
+---
+
+## ✨ Demo  
+![image](https://github.com/user-attachments/assets/f1312aee-b9bf-4d96-b214-bfebf1a7355d)
+![image](https://github.com/user-attachments/assets/d7c980bf-11ca-43f3-a3a9-4d54d79caf77)
+
+
+---
+
+## 🙌 Authors  
+
+- **Yash Kadu**  
+- Yashas Awachar  
+- Amrita Bera  
+- Snehal Borse  
+
+---
+
+## 📬 Contact  
+
+For queries or collaborations:  
+📧 [Add your preferred email]
+
+---
+
