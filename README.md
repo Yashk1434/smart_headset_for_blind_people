@@ -5,8 +5,7 @@ A compact, wearable assistive device enhancing mobility, safety, and independenc
 ---
 
 ## 📸 Project Showcase  
-![image](https://github.com/user-attachments/assets/deae8dd7-1cb7-469d-bc03-cc02b504c5d8)
-
+<img src="https://github.com/user-attachments/assets/deae8dd7-1cb7-469d-bc03-cc02b504c5d8" width="500"/>
 
 ---
 
@@ -37,9 +36,8 @@ The **Smart Headset for the Visually Impaired** is a low-cost, Arduino Mega-base
 ---
 
 ## 🧭 System Architecture  
-![image](https://github.com/user-attachments/assets/05f31248-e680-4f62-ba62-b6f283cb24e9)
-![image](https://github.com/user-attachments/assets/570c2a0e-c8ec-4f77-a157-36fb71289a3f)
-
+<img src="https://github.com/user-attachments/assets/05f31248-e680-4f62-ba62-b6f283cb24e9" width="500"/>  
+<img src="https://github.com/user-attachments/assets/570c2a0e-c8ec-4f77-a157-36fb71289a3f" width="500"/>
 
 ---
 
@@ -109,9 +107,8 @@ You can find the full technical documentation in the `Smart Headset for BlindS.d
 ---
 
 ## ✨ Demo  
-![image](https://github.com/user-attachments/assets/f1312aee-b9bf-4d96-b214-bfebf1a7355d)
-![image](https://github.com/user-attachments/assets/d7c980bf-11ca-43f3-a3a9-4d54d79caf77)
-
+<img src="https://github.com/user-attachments/assets/f1312aee-b9bf-4d96-b214-bfebf1a7355d" width="500"/>  
+<img src="https://github.com/user-attachments/assets/d7c980bf-11ca-43f3-a3a9-4d54d79caf77" width="500"/>
 
 ---
 
@@ -130,4 +127,3 @@ For queries or collaborations:
 📧 [Add your preferred email]
 
 ---
-
