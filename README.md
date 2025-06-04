@@ -1,5 +1,5 @@
 The Smart Headset for the Visually Impaired - "The Third Eye," is a compact, Arduino Mega-based wearable assistive device aimed at enhancing mobility, safety, and independence for blind individuals. It integrates three ultrasonic sensors to detect obstacles in real time and provides directional auditory feedback using buzzers placed near the ears. Depending on the proximity and position of detected obstacles, the buzzers vary in frequency and intensity, alerting the user to navigate safely.
-![image](https://github.com/user-attachments/assets/7a45f2ed-4cdb-40a2-8e6f-e6e09a198017)
+![image](https://github.com/user-attachments/assets/7a45f2ed-4cdb-40a2-8e6f-e6e09a198017 | width=100)
 
 There are various zones in the Projects for which the parameters/variables can be changed according to needs.
 ![image](https://github.com/user-attachments/assets/950b1b53-1256-4daa-b72c-b01aa5e3f2ee)
