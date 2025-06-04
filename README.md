@@ -39,8 +39,8 @@ The **Smart Headset for the Visually Impaired** is a low-cost, Arduino Mega-base
 ---
 
 ## 🧭 System Architecture  
-<img src="https://github.com/user-attachments/assets/05f31248-e680-4f62-ba62-b6f283cb24e9" width="300"/>  
-<img src="https://github.com/user-attachments/assets/570c2a0e-c8ec-4f77-a157-36fb71289a3f" width="400"/>
+<img src="https://github.com/user-attachments/assets/05f31248-e680-4f62-ba62-b6f283cb24e9" width="400"/>  
+<img src="https://github.com/user-attachments/assets/570c2a0e-c8ec-4f77-a157-36fb71289a3f" width="500"/>
 
 ---
 
@@ -110,8 +110,8 @@ You can find the full technical documentation in the `Smart Headset for Blind Pe
 ---
 
 ## ✨ Demo  
-<img src="https://github.com/user-attachments/assets/f1312aee-b9bf-4d96-b214-bfebf1a7355d" width="350"/>  
-<img src="https://github.com/user-attachments/assets/d7c980bf-11ca-43f3-a3a9-4d54d79caf77" width="350"/>
+<img src="https://github.com/user-attachments/assets/f1312aee-b9bf-4d96-b214-bfebf1a7355d" width="450"/>  
+<img src="https://github.com/user-attachments/assets/d7c980bf-11ca-43f3-a3a9-4d54d79caf77" width="450"/>
 
 ---
 
